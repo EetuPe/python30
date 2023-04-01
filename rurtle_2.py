@@ -20,11 +20,11 @@ turo.begin_fill()
 
 
     
-# turo.end_fill()
+turo.end_fill()
 
-# for _ in range(0,5):
-#     turo.forward(50)
-#     turo.left(145)
+for _ in range(0,5):
+    turo.forward(50)
+    turo.left(145)
     
 turo.end_fill()
     
